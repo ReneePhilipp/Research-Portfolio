@@ -10,4 +10,4 @@ Defining a product opportunity from connected vehicle data through mixed-methods
 - Outcome: Customer-facing analytics dashboard
 - Additional outcome: Industry publication and international conference presentation
 
-[View Case Study](case-studies/air-quality-insights/AirQuality_ProductResearch.pdf)
+[View Case Study](https://github.com/ReneePhilipp/Research-Portfolio/blob/b7a95f7c18de9846ad70010b22b17f63effccc71/AirQuality_ProductResearch.pdf)
